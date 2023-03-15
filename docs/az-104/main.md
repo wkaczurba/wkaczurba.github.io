@@ -1,7 +1,6 @@
 # Az-104 preps materials.
 
 
-
 ## Study guides + readiness materials
 
 Study guide - with changes.
@@ -24,11 +23,156 @@ Readiness
 
 Udemy - courses
 
-[comment]: # (TODO: REMOVE SCREENSHOTS below)
 
-Part 1: Manage Azure Identities and Governance 
+-----
 
- ![Manage Licenses in Azure AD](res/Manage_licenses_in_Azure_AD.png)
+AZ-104 Learning Paths:
+ - https://learn.microsoft.com/en-us/training/browse/?terms=az-104
+
+1. https://learn.microsoft.com/en-us/training/paths/az-104-administrator-prerequisites/
+    - https://learn.microsoft.com/en-us/training/modules/configure-azure-resources-tools
+       - LABS: https://learn.microsoft.com/en-us/training/modules/configure-azure-resources-tools/7-simulation-command-line
+    - https://learn.microsoft.com/en-us/training/modules/use-azure-resource-manager
+    - https://learn.microsoft.com/en-us/training/modules/configure-resources-arm-templates
+       - LABS: https://learn.microsoft.com/en-us/training/modules/configure-resources-arm-templates/7-simulation-template
+    - https://learn.microsoft.com/en-us/training/modules/automate-azure-tasks-with-powershell
+       - LABS: https://learn.microsoft.com/en-us/training/modules/automate-azure-tasks-with-powershell/4-exercise-install-azure-powershell
+       - LABS: https://learn.microsoft.com/en-us/training/modules/automate-azure-tasks-with-powershell/6-exercise-create-resource-interactively
+       - LABS: https://learn.microsoft.com/en-us/training/modules/automate-azure-tasks-with-powershell/8-exercise-create-resource-using-script
+
+    - https://learn.microsoft.com/en-us/training/modules/control-azure-services-with-cli
+       - LABS: https://learn.microsoft.com/en-us/training/modules/control-azure-services-with-cli/3-exercise-install-and-run-the-azure-cli
+       - LABS: https://learn.microsoft.com/en-us/training/modules/control-azure-services-with-cli/5-exercise-create-website-using-the-cli
+    - https://learn.microsoft.com/en-us/training/modules/create-azure-resource-manager-template-vs-code/
+       - LABS: https://learn.microsoft.com/en-us/training/modules/create-azure-resource-manager-template-vs-code/3-exercise-create-and-deploy-template
+       - LABS: https://learn.microsoft.com/en-us/training/modules/create-azure-resource-manager-template-vs-code/5-exercise-parameters-output
+
+
+ 2. https://learn.microsoft.com/en-us/training/paths/az-104-manage-identities-governance/
+    - https://learn.microsoft.com/en-us/training/modules/configure-azure-active-directory/
+    - https://learn.microsoft.com/en-us/training/modules/configure-user-group-accounts/
+       - LABS: https://learn.microsoft.com/en-us/training/modules/configure-user-group-accounts/7-simulation-user-groups
+    - https://learn.microsoft.com/en-us/training/modules/configure-subscriptions
+    - https://learn.microsoft.com/en-us/training/modules/configure-azure-policy
+       - LABS: https://learn.microsoft.com/en-us/training/modules/configure-azure-policy/9-simulation-policy
+    - https://learn.microsoft.com/en-us/training/modules/configure-role-based-access-control
+       - LABS: https://learn.microsoft.com/en-us/training/modules/configure-role-based-access-control/8-simulation-role-based
+    - https://learn.microsoft.com/en-us/training/modules/create-users-and-groups-in-azure-active-directory
+       - LABS: https://learn.microsoft.com/en-us/training/modules/create-users-and-groups-in-azure-active-directory/3-exercise-add-delete-users-azure-ad
+       - LABS: https://learn.microsoft.com/en-us/training/modules/create-users-and-groups-in-azure-active-directory/5-exercise-assign-users-azure-ad-groups
+       - LABS: https://learn.microsoft.com/en-us/training/modules/create-users-and-groups-in-azure-active-directory/7-exercise-guest-user-access-azure-ad-b2b
+       
+    - https://learn.microsoft.com/en-us/training/modules/secure-azure-resources-with-rbac
+       - LABS: https://learn.microsoft.com/en-us/training/modules/secure-azure-resources-with-rbac/4-list-access
+       - LABS: https://learn.microsoft.com/en-us/training/modules/secure-azure-resources-with-rbac/5-grant-access
+       - LABS: https://learn.microsoft.com/en-us/training/modules/secure-azure-resources-with-rbac/6-view-activity-logs
+
+
+    - https://learn.microsoft.com/en-us/training/modules/allow-users-reset-their-password
+       - LABS: https://learn.microsoft.com/en-us/training/modules/allow-users-reset-their-password/4-exercise-set-up-self-service-password-reset
+       - LABS: https://learn.microsoft.com/en-us/training/modules/allow-users-reset-their-password/5-exercise-customize-directory-branding
+
+
+3. https://learn.microsoft.com/en-us/training/paths/az-104-manage-storage/
+    - https://learn.microsoft.com/en-us/training/modules/configure-storage-accounts/
+    - https://learn.microsoft.com/en-us/training/modules/configure-blob-storage/
+       - LABS: https://learn.microsoft.com/en-us/training/modules/configure-blob-storage/9-simulation-blobs
+    - https://learn.microsoft.com/en-us/training/modules/configure-storage-security/
+       - LAB: https://learn.microsoft.com/en-us/training/modules/configure-storage-security/8-simulation-storage
+
+    - https://learn.microsoft.com/en-us/training/modules/configure-azure-files-file-sync/
+
+    - https://learn.microsoft.com/en-us/training/modules/configure-storage-tools/
+    - https://learn.microsoft.com/en-us/training/modules/create-azure-storage-account/
+       - LAB: https://learn.microsoft.com/en-us/training/modules/create-azure-storage-account/5-exercise-create-a-storage-account
+
+    - https://learn.microsoft.com/en-us/training/modules/control-access-to-azure-storage-with-sas/
+       - LAB: https://learn.microsoft.com/en-us/training/modules/control-access-to-azure-storage-with-sas/4-exercise-use-shared-access-signatures
+       - LAB: https://learn.microsoft.com/en-us/training/modules/control-access-to-azure-storage-with-sas/6-exercise-use-stored-access-policies
+    - https://learn.microsoft.com/en-us/training/modules/upload-download-and-manage-data-with-azure-storage-explorer/
+       - LAB: https://learn.microsoft.com/en-us/training/modules/upload-download-and-manage-data-with-azure-storage-explorer/3-exercise-connect-storage-account
+
+4. https://learn.microsoft.com/en-us/training/paths/az-104-manage-compute-resources/
+    - https://learn.microsoft.com/en-us/training/modules/configure-virtual-machines/
+       - LAB: https://learn.microsoft.com/en-us/training/modules/configure-virtual-machines/8-simulation-create-virtual-machines
+    - https://learn.microsoft.com/en-us/training/modules/configure-virtual-machine-availability/
+       - LAB: https://learn.microsoft.com/en-us/training/modules/configure-virtual-machine-availability/11-simulation-machine-scale
+    - https://learn.microsoft.com/en-us/training/modules/configure-virtual-machine-extensions/
+    - https://learn.microsoft.com/en-us/training/modules/configure-app-service-plans/
+    - https://learn.microsoft.com/en-us/training/modules/configure-azure-app-services/
+       - LAB: https://learn.microsoft.com/en-us/training/modules/configure-azure-app-services/11-simulation-web-apps
+
+    - https://learn.microsoft.com/en-us/training/modules/configure-azure-container-instances/
+       - LAB: https://learn.microsoft.com/en-us/training/modules/configure-azure-container-instances/6-simulation-containers
+    - https://learn.microsoft.com/en-us/training/modules/configure-azure-kubernetes-service/
+       - LAB: https://learn.microsoft.com/en-us/training/modules/configure-azure-kubernetes-service/8-simulation-kubernetes
+    - https://learn.microsoft.com/en-us/training/modules/manage-virtual-machines-with-azure-cli/
+       - LAB: https://learn.microsoft.com/en-us/training/modules/manage-virtual-machines-with-azure-cli/2-create-a-vm
+       - LAB: https://learn.microsoft.com/en-us/training/modules/manage-virtual-machines-with-azure-cli/3-testing-the-vm
+       - LAB: https://learn.microsoft.com/en-us/training/modules/manage-virtual-machines-with-azure-cli/4-other-vm-images
+       - LAB: https://learn.microsoft.com/en-us/training/modules/manage-virtual-machines-with-azure-cli/5-sizing-vms
+       - LAB: https://learn.microsoft.com/en-us/training/modules/manage-virtual-machines-with-azure-cli/6-querying-vms
+       - LAB: https://learn.microsoft.com/en-us/training/modules/manage-virtual-machines-with-azure-cli/7-managing-vms
+       - LAB: https://learn.microsoft.com/en-us/training/modules/manage-virtual-machines-with-azure-cli/8-installing-software
+    - https://learn.microsoft.com/en-us/training/modules/create-windows-virtual-machine-in-azure/
+       - LAB: https://learn.microsoft.com/en-us/training/modules/create-windows-virtual-machine-in-azure/3-exercise-create-a-vm
+       - LAB: https://learn.microsoft.com/en-us/training/modules/create-windows-virtual-machine-in-azure/5-exercise-connect-to-a-windows-vm-using-rdp
+
+    - https://learn.microsoft.com/en-us/training/modules/host-a-web-app-with-azure-app-service/
+       - LAB: https://learn.microsoft.com/en-us/training/modules/host-a-web-app-with-azure-app-service/3-exercise-create-a-web-app-in-the-azure-portal
+       - LAB: https://learn.microsoft.com/en-us/training/modules/host-a-web-app-with-azure-app-service/5-exercise-implement-a-web-application
+       - LAB: https://learn.microsoft.com/en-us/training/modules/host-a-web-app-with-azure-app-service/7-exercise-deploy-your-code-to-app-service
+    - https://learn.microsoft.com/en-us/training/modules/protect-vm-settings-with-dsc/
+       - LAB: https://learn.microsoft.com/en-us/training/modules/protect-vm-settings-with-dsc/4-exercise-setup-dsc-configuration
+
+5. https://learn.microsoft.com/en-us/training/paths/az-104-manage-virtual-networks/
+    - https://learn.microsoft.com/en-us/training/modules/configure-virtual-networks/
+       - LAB: https://learn.microsoft.com/en-us/training/modules/configure-virtual-networks/9-simulation-create-networks
+    - https://learn.microsoft.com/en-us/training/modules/configure-network-security-groups/
+       - LAB: https://learn.microsoft.com/en-us/training/modules/configure-network-security-groups/7-simulation-create-network-groups
+    - https://learn.microsoft.com/en-us/training/modules/configure-azure-firewall/
+    - https://learn.microsoft.com/en-us/training/modules/configure-azure-dns/
+    - https://learn.microsoft.com/en-us/training/modules/configure-vnet-peering/
+       - LAB: https://learn.microsoft.com/en-us/training/modules/configure-vnet-peering/4-create
+    - https://learn.microsoft.com/en-us/training/modules/configure-vpn-gateway/
+    - https://learn.microsoft.com/en-us/training/modules/configure-expressroute-virtual-wan/
+    - https://learn.microsoft.com/en-us/training/modules/configure-network-routing-endpoints/
+       - LAB: https://learn.microsoft.com/en-us/training/modules/configure-network-routing-endpoints/7-simulation-routing
+    - https://learn.microsoft.com/en-us/training/modules/configure-azure-load-balancer/
+       - LAB: https://learn.microsoft.com/en-us/training/modules/configure-azure-load-balancer/9-simulation-load-balancer
+    - https://learn.microsoft.com/en-us/training/modules/configure-azure-application-gateway/
+    - https://learn.microsoft.com/en-us/training/modules/design-ip-addressing-for-azure/
+       - LAB: https://learn.microsoft.com/en-us/training/modules/design-ip-addressing-for-azure/5-exercise-implement-vnets
+    - https://learn.microsoft.com/en-us/training/modules/integrate-vnets-with-vnet-peering/
+       - LAB: https://learn.microsoft.com/en-us/training/modules/integrate-vnets-with-vnet-peering/3-exercise-prepare-vnets-for-peering-using-azure-cli-commands
+       - LAB: https://learn.microsoft.com/en-us/training/modules/integrate-vnets-with-vnet-peering/4-exercise-configure-vnet-peering-connections-using-azure-cli-commands
+       - LAB: https://learn.microsoft.com/en-us/training/modules/integrate-vnets-with-vnet-peering/5-exercise-verify-vnet-peering
+    - https://learn.microsoft.com/en-us/training/modules/host-domain-azure-dns/
+       - LAB: https://learn.microsoft.com/en-us/training/modules/host-domain-azure-dns/4-exercise-create-dns-zone-a-record
+    - https://learn.microsoft.com/en-us/training/modules/control-network-traffic-flow-with-routes/
+       - LAB: https://learn.microsoft.com/en-us/training/modules/control-network-traffic-flow-with-routes/3-exercise-create-custom-routes
+       - LAB: https://learn.microsoft.com/en-us/training/modules/control-network-traffic-flow-with-routes/5-exercise-create-nva-vm
+    - https://learn.microsoft.com/en-us/training/modules/improve-app-scalability-resiliency-with-load-balancer/
+       - LAB: https://learn.microsoft.com/en-us/training/modules/improve-app-scalability-resiliency-with-load-balancer/4-exercise-configure-public-load-balancer
+
+6. https://learn.microsoft.com/en-us/training/paths/az-104-monitor-backup-resources/
+    - https://learn.microsoft.com/en-us/training/modules/configure-file-folder-backups/
+      - LAB: https://learn.microsoft.com/en-us/training/modules/configure-file-folder-backups/7-interactive-lab-simulation
+    - https://learn.microsoft.com/en-us/training/modules/configure-virtual-machine-backups/
+      - LAB: https://learn.microsoft.com/en-us/training/modules/configure-virtual-machine-backups/11-simulation-machine-backups
+    - https://learn.microsoft.com/en-us/training/modules/configure-azure-monitor/
+      - LAB: https://learn.microsoft.com/en-us/training/modules/configure-azure-monitor/8-simulation-monitor
+    - https://learn.microsoft.com/en-us/training/modules/configure-azure-alerts/
+    - https://learn.microsoft.com/en-us/training/modules/configure-log-analytics/
+    - https://learn.microsoft.com/en-us/training/modules/configure-network-watcher/
+    - https://learn.microsoft.com/en-us/training/modules/incident-response-with-alerting-on-azure/
+      - LAB: https://learn.microsoft.com/en-us/training/modules/incident-response-with-alerting-on-azure/4-exercise-metric-alerts
+      - LAB: https://learn.microsoft.com/en-us/training/modules/incident-response-with-alerting-on-azure/7-exercise-activity-log-alerts
+    - https://learn.microsoft.com/en-us/training/modules/analyze-infrastructure-with-azure-monitor-logs/
+      - LAB: https://learn.microsoft.com/en-us/training/modules/analyze-infrastructure-with-azure-monitor-logs/4-exercise-create-log-queries
+    - https://learn.microsoft.com/en-us/training/modules/monitor-performance-using-azure-monitor-for-vms/
+      - LAB: https://learn.microsoft.com/en-us/training/modules/monitor-performance-using-azure-monitor-for-vms/3-exercise-set-up-log-analytics-workspace
+      - LAB: https://learn.microsoft.com/en-us/training/modules/monitor-performance-using-azure-monitor-for-vms/5-exercise-build-log-queries
 
 
 
