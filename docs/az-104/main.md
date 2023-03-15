@@ -22,4 +22,13 @@ Readiness
  - [Part 5: Monitor and maintain Azure Resources](https://learn.microsoft.com/en-us/shows/exam-readiness-zone/preparing-for-az-104-monitor-and-maintain-azure-resources-5-of-5)
 
 
+Udemy - courses
+
+[comment]: # (TODO: REMOVE SCREENSHOTS below)
+
+Part 1: Manage Azure Identities and Governance 
+
+ ![Manage Licenses in Azure AD](res/Manage_licenses_in_Azure_AD.png)
+
+
 
