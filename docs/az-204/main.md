@@ -1,4 +1,8 @@
-AZ-204 content - links
+# AZ-204 content - links
+
+## [AZ-204 Exam Preps](https://learn.microsoft.com/en-ie/certifications/exams/az-204/)
+
+The following links were extracted from Microsoft's [self-paced learning path](https://learn.microsoft.com/en-ie/certifications/exams/az-204/).
 
 1. [AZ-204: Implement Azure App Service web apps](https://learn.microsoft.com/en-ie/training/paths/create-azure-app-service-web-apps/)
     - [Explore Azure App Service](https://learn.microsoft.com/en-ie/training/modules/introduction-to-azure-app-service/?ns-enrollment-type=learningpath&ns-enrollment-id=learn.wwl.create-azure-app-service-web-apps)
