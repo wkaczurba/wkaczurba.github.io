@@ -1,7 +1,10 @@
-# First commit
+# Witold Kaczurba - (work-in-progress) github page.
 
-Just a test
+## Cloud Architecture, code development, electronics
 
-[AZ-104 preps](az-104/main.md)
+Architecture / Cloud 
+
+ - [AZ-104 preps](az-104/main.md)
+ - [AZ-204 preps](az-204/main.md)
 
 
