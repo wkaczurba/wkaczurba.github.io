@@ -9,6 +9,7 @@ Architecture / Cloud - exam preps
 
 
 AWS:
- - [some handy scripts](aws/chosen_aws_scripts.md)
+ - [some handy scripts](aws/main.md)
 
-
+Linux:
+ - [some handy scripts](linux/main.md)
