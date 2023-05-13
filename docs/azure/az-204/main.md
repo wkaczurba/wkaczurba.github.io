@@ -1,6 +1,11 @@
 # AZ-204 content - links
 
-## [AZ-204 Exam Preps](https://learn.microsoft.com/en-ie/certifications/exams/az-204/)
+- [AZ-204 content - links](#az-204-content---links)
+  - [Official Microsoft documentation](#official-microsoft-documentation)
+  - [Handy scripts](#handy-scripts)
+
+
+## Official Microsoft documentation
 
 The following links were extracted from Microsoft's [self-paced learning path](https://learn.microsoft.com/en-ie/certifications/exams/az-204/).
 
@@ -274,3 +279,6 @@ The following links were extracted from Microsoft's [self-paced learning path](h
 		 - [Knowledge check](https://learn.microsoft.com/en-ie/training/modules/develop-for-storage-cdns/5-knowledge-check/?ns-enrollment-type=learningpath&ns-enrollment-id=learn.wwl.az-204-integrate-caching-content-delivery-within-solutions)
 		 - [Summary](https://learn.microsoft.com/en-ie/training/modules/develop-for-storage-cdns/6-summary/?ns-enrollment-type=learningpath&ns-enrollment-id=learn.wwl.az-204-integrate-caching-content-delivery-within-solutions)
 
+
+
+## Handy scripts
