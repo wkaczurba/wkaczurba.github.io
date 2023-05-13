@@ -1,6 +1,38 @@
-### Chrome-dev Handy scripts for extraction of text:
+## Chrome-dev Handy scripts for extraction of text:
 
-- Prints all items from Udemy:
+### Extracts links from Microsoft-Learn pages
+
+Code used to extract stuff links from microsoft-learn pages.
+The content of webpages is dynamically loaded so chrome + chrome dev was the quickest to obtain links.
+
+```javascript
+as = $$('a');
+for (a in as) { 
+    if (as[a].text.includes("AZ-204") && as[a].href.includes("training")) {
+        console.log('[' + as[a].text + '](' + as[a].href + ')'); 
+    }
+}
+
+
+// Modules:
+as = $$('a');
+output = "";
+for (a in as) { 
+    if (as[a].href.includes("training/modules")) {
+        if (as[a].className.includes('display-block text-decoration-none')) { // heading - of module
+            //console.log('[' + as[a].text.trim() + '](' + as[a].href + ')');
+            output += '\t - [' + as[a].text.trim() + '](' + as[a].href + ')\n';
+        }
+        else if (as[a].className.includes('unit-title display-block font-size-md has-line-height-reset')) { // 
+            // console.log(' - [' + as[a].text.trim() + '](' + as[a].href + ')'); 
+            output += '\t\t - [' + as[a].text.trim() + '](' + as[a].href + ')\n'; 
+        }
+    }
+}
+console.log(output);
+```
+
+### Prints all items from Udemy:
   - `s=""; $$('span').filter( s => s.getAttribute('data-purpose') == 'item-title').map(x => x.textContent).forEach(x => s += x+"\n"); console.log(s);`
 
 
