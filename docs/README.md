@@ -19,3 +19,5 @@ Linux:
 Chrome-dev, javascripts etc.
  - [chrome-dev easy link extraction](chrome-dev/chromedev-links.md)
 
+Arch - partial stuff
+ - [arch - good practices for naming](arch/good_practices)
