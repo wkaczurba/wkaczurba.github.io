@@ -29,6 +29,7 @@ for BUCKET in $BUCKETS; do
     fi
 done
 ```
+<script src="https://gist.github.com/wkaczurba/18582b722c1e0daa26200905cdc60f0a.js"></script>
 
 ### Deletion of bucket with its contents.
 
