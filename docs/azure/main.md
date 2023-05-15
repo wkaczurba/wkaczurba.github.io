@@ -8,4 +8,5 @@
 
 ## Azure-CLI notes:
  - [Azure CLI notes](az-cli/az-cli.md)
-  
+ - [Powershell + Azure Powershell notes](z-cli/powershell.md)
+
