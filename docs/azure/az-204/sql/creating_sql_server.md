@@ -41,10 +41,14 @@ https://www.udemy.com/course/azure-certification-1/learn/lecture/31939988#overvi
 
 ![Setting connection string](Screenshot%20from%202023-05-23%2016-20-14.png)
 
-Gotcha:
+Gotcha 1:
 Make sure you click this `save` button!
 ![](Screenshot%20from%202023-05-23%2016-39-36.png)
 
 
 In the application itself:
  - Inject `IConfiguration` from `Microsoft.Extensions.Configuration.Abstarct...` and execute `.getConnectionString(name-of-key)`
+
+Gotcha 2:
+ - you need to deploy it as call from localhost to Azure portal will not work as expected!
+
