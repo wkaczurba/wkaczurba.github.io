@@ -10,3 +10,6 @@
  - [Azure CLI notes](az-cli/az-cli.md)
  - [Powershell + Azure Powershell notes](az-cli/powershell.md)
 
+## Azure - Java:
+ - [Java SDK links](java-sdk.md)
+ - 

@@ -1,8 +1,25 @@
+# AZ-204 notes:
+
+- webapps:
+  - [App configuration](webapp/app_configuration.md)
+  - [Autoscaling](webapp/autoscaling.md)
+  - [App configs and feature flags](webapp/configs.md)
+  - [Logs](webapp/logs.md)
+  - [TODOs](webapp/todos.md)
+  - [WebApp Notes](webapp/webapp_notes.md)
+
+- SQL:
+  - [Creating SQL server](sql/creating_sql_server.md)
+
+- VMs:
+  - [VM deployments](vm-deployments/vm-deployments.md)
+
 # AZ-204 content - links
 
+- [AZ-204 notes:](#az-204-notes)
 - [AZ-204 content - links](#az-204-content---links)
-  - [Official Microsoft documentation](#official-microsoft-documentation)
-  - [Handy scripts](#handy-scripts)
+	- [Official Microsoft documentation](#official-microsoft-documentation)
+	- [Handy scripts](#handy-scripts)
 
 
 ## Official Microsoft documentation
