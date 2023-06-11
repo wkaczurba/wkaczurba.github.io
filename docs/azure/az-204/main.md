@@ -6,6 +6,10 @@
   - [App configs and feature flags](webapp/configs.md)
   - [Deployment Slots](webapp/slots.md)
   - [Azure Functions](functions/function_notes.md)
+  - Identity + graph:
+    - [Identity](identity/identity.md)
+    - [Graph](identity/graph.md)
+    - [Managed Identities](identity/managed_identities.md)
   - [Logs](webapp/logs.md)
   - [Azure Container Registry (ACR) + container + dockers](containers/azure-containers.md)
   - [TODOs](webapp/todos.md)
