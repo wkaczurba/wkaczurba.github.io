@@ -4,7 +4,9 @@
   - [App configuration](webapp/app_configuration.md)
   - [Autoscaling](webapp/autoscaling.md)
   - [App configs and feature flags](webapp/configs.md)
+  - [Deployment Slots](webapp/slots.md)
   - [Logs](webapp/logs.md)
+  - [Azure Container Registry (ACR) + container + dockers](containers/azure-containers.md)
   - [TODOs](webapp/todos.md)
   - [WebApp Notes](webapp/webapp_notes.md)
 
@@ -14,12 +16,16 @@
 - VMs:
   - [VM deployments](vm-deployments/vm-deployments.md)
 
+- API management:
+  - [API management](api-mgnmt/api_mngmnt.md)
+
 # AZ-204 content - links
 
 - [AZ-204 notes:](#az-204-notes)
 - [AZ-204 content - links](#az-204-content---links)
 	- [Official Microsoft documentation](#official-microsoft-documentation)
 	- [Handy scripts](#handy-scripts)
+
 
 
 ## Official Microsoft documentation
