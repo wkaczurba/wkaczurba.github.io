@@ -52,3 +52,8 @@ In the application itself:
 Gotcha 2:
  - you need to deploy it as call from localhost to Azure portal will not work as expected!
 
+# Elastic pools
+
+> elastic pools are on a single server and share a se t number of resources at as set price
+
+[https://learn.microsoft.com/en-us/azure/azure-sql/database/elastic-pool-overview?view=azuresql](https://learn.microsoft.com/en-us/azure/azure-sql/database/elastic-pool-overview?view=azuresql)

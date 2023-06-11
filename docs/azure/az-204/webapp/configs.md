@@ -76,3 +76,31 @@
         return false;
     }
     ```
+
+### App Configuration data - secure access
+
+Ref: [Tutorial: 5-secure-app-configuration-data](https://learn.microsoft.com/en-ie/training/modules/implement-azure-app-configuration/5-secure-app-configuration-data)
+
+App config data:
+ - CMK
+   - to enable Azure-Key-Vault w/soft-delete + purge prot.
+   - RSA or RSA-HSM keys in the vault w/wrap-unwrap capabilities. 
+ - Private Endpoints
+   - no public exposure, access only from within VNET
+ - Managed Identties.
+   - system vs user ones:
+     - system: only one system-assigned identity for config store.
+     - user assigned identities: can handle mulitple identities
+
+
+Re: Managed identities:
+ - assigning system identity:
+   - `az appconfig identity assign --name myTestAppConfigStore --resource-group rg1`
+ - assigning user identity:
+ - ```
+    az appconfig identity assign --name myTestAppConfigStore \
+    --resource-group myResourceGroup \ 
+    --identities /subscriptions/[subscription id]/resourcegroups/myResourceGroup/providers/Microsoft.ManagedIdentity/userAssignedIdentities/myUserAssignedIdentity
+    ```
+
+
