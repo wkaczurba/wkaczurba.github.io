@@ -10,7 +10,8 @@
   - [TODOs](webapp/todos.md)
   - [WebApp Notes](webapp/webapp_notes.md)
   - [App Insights + Azure Monitor](app_insights_and_azure_monitor/app_insights_and_azure_monitor.md)
-  - [Caching + CDN](caching%2Bcdn/caching.md)
+  - [Caching + CDN](caching-and-cdn/caching.md)
+  - [Cosmos DB](cosmosdb/cosmosdb.md)
 
 - SQL:
   - [Creating SQL server](sql/creating_sql_server.md)
