@@ -5,6 +5,7 @@
   - [Autoscaling](webapp/autoscaling.md)
   - [App configs and feature flags](webapp/configs.md)
   - [Deployment Slots](webapp/slots.md)
+  - [Azure Functions](functions/function_notes.md)
   - [Logs](webapp/logs.md)
   - [Azure Container Registry (ACR) + container + dockers](containers/azure-containers.md)
   - [TODOs](webapp/todos.md)
