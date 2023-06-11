@@ -12,6 +12,7 @@
   - [App Insights + Azure Monitor](app_insights_and_azure_monitor/app_insights_and_azure_monitor.md)
   - [Caching + CDN](caching-and-cdn/caching.md)
   - [Cosmos DB](cosmosdb/cosmosdb.md)
+  - [EvenGrid EventHub, ServiceBus and Queues](eventgrid_and_eventhub/eventgrid_and_hub.md)
 
 - SQL:
   - [Creating SQL server](sql/creating_sql_server.md)
