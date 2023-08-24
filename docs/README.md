@@ -8,12 +8,13 @@ Architecture / Cloud
    - [AZ-104 preps](azure/az-104/main.md)
    - [AZ-204 preps](azure/az-204/main.md)
    - [AZ-305 various notes](azure/az-305/main.md)
+   - [SpringApps - TBD](azure/springapps/springapps.md)
 
 ## Partial notes, scripts, handy code encounters.
 
 AWS:
  - [some handy scripts](aws/main.md)
- - [courses TBD](courses.md)
+ - [courses TBD](aws/courses.md)
 
 Chat-GPT:
  - [ai-chatgpt](ai-chatgpt/chat-gpt.md)
