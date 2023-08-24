@@ -1,4 +1,12 @@
-# AZ-204 notes:
+# AZ-204 list of contents
+
+- [AZ-204 list of contents](#az-204-list-of-contents)
+- [Own AZ-204 notes](#own-az-204-notes)
+- [Resources - Ebooks etc.](#resources---ebooks-etc)
+- [Official Microsoft documentation](#official-microsoft-documentation)
+	- [Handy scripts](#handy-scripts)
+
+# Own AZ-204 notes
 
 - webapps:
   - [App configuration](webapp/app_configuration.md)
@@ -28,16 +36,16 @@
 - API management:
   - [API management](api-mgnmt/api_mngmnt.md)
 
-# AZ-204 content - links
-
-- [AZ-204 notes:](#az-204-notes)
-- [AZ-204 content - links](#az-204-content---links)
-	- [Official Microsoft documentation](#official-microsoft-documentation)
-	- [Handy scripts](#handy-scripts)
+- [Key Vault](keyvault/keyvault.md)
+- [Logic Apps](logic-apps/logic-apps.md)
 
 
 
-## Official Microsoft documentation
+# Resources - Ebooks etc.
+
+ - [Free eBook – The Developer’s Guide to Microsoft Azure now available](https://azure.microsoft.com/en-us/blog/free-ebook-the-developer-s-guide-to-microsoft-azure-now-available/)
+
+# Official Microsoft documentation
 
 The following links were extracted from Microsoft's [self-paced learning path](https://learn.microsoft.com/en-ie/certifications/exams/az-204/).
 

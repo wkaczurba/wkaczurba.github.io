@@ -7,12 +7,13 @@ Architecture / Cloud
  - [Azure](azure/main.md):
    - [AZ-104 preps](azure/az-104/main.md)
    - [AZ-204 preps](azure/az-204/main.md)
-
+   - [AZ-305 various notes](azure/az-305/main.md)
 
 ## Partial notes, scripts, handy code encounters.
 
 AWS:
  - [some handy scripts](aws/main.md)
+ - [courses TBD](courses.md)
 
 Chat-GPT:
  - [ai-chatgpt](ai-chatgpt/chat-gpt.md)
@@ -22,10 +23,28 @@ Linux:
 
 Chrome-dev, javascripts etc.
  - [chrome-dev easy link extraction](chrome-dev/chromedev-links.md)
+ - [chrome-headless printing TBD](chrome-dev/chrome-headless-printing.md)
+ - [Chrome-headless automation - puppeteer TBD](chrome-dev/pupeteer.md)
 
 Arch - partial stuff
  - [arch - good practices for naming](arch/good_practices)
+ - [arch - availability testing - TBD](arch/availability_testing.md)
+ - [arch - http security - TBD](arch/http_headers_and_security.md) 
+ - [arch - oauth2 - TBD](arch/oauth.md)
+ - [arch - architecture styles TBD](arch/architecture_styles.md)
+- TBD
 
 Docker:
  - [docker-compose snippet for MariaDB](docker-snippets/mariadb.md)
+ - [docker various issues](docker-snippets/various.md)
+ - [docker mongo + ROBO3T](docker-snippets/mongo.md)
 
+Mongo:
+ - [mongo - various](mongo/mongo.md)
+
+365: (setup for small-business, free static webpage, etc):
+ - [365 random notes](365_and_website/365.md)
+
+Java/Spring-Boot-etc.:
+ - [Flyway](flyway/flyway-spring.md)
+ 
