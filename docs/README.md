@@ -42,6 +42,9 @@ Docker:
 Mongo:
  - [mongo - various](mongo/mongo.md)
 
+Mavaen:
+ - [java17-archetype](maven/archetype/archetype.md)
+
 365: (setup for small-business, free static webpage, etc):
  - [365 random notes](365_and_website/365.md)
 
