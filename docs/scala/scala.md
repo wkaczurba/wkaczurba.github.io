@@ -1,5 +1,11 @@
 # Scala - private notes.
 
+Github repo:
+ - https://github.com/wkaczurba/scala-course
+ - https://github.com/wkaczurba/scala-exercises
+ - https://github.com/wkaczurba/scala-fmi-2021 # Bulgarian by Zdravko+friends.
+ - https://github.com/search?q=owner%3Awkaczurba%20scala&type=code
+
 Sorry these are private notes; I may reprocess them and put in here as accessible)
  - [Scala - all, Jun 10 2021](https://docs.google.com/document/d/1fH21LMxzx77qTRvkbSenfGE61eG2y8ItBkPrAiEU2l8/edit#heading=h.5qosdojfisdx)
  - [Scala feb 24 2021(https://docs.google.com/document/d/1d6mTya8bIddRFUbVpARRV18VF7RScB5GsN52qz3F_No/edit)

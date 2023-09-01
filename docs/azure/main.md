@@ -12,4 +12,14 @@
 
 ## Azure - Java:
  - [Java SDK links](java-sdk.md)
- - 
+
+
+### SAS token generation
+
+[My answer  - SO](https://stackoverflow.com/questions/54541238/azure-service-bus-get-messages-from-queue-using-cli#76983598)
+
+[SAS token generation - shell (problems)](sas/generate_sas_token.sh)
+[SAS token generation - python (problems)](sas/generate.py)
+[SAS token generation - java working ok](sas/SasGeneration/src/Main.java)
+
+

@@ -4,7 +4,7 @@
 
 Architecture / Cloud
 
- - [Azure](azure/main.md):
+ - [Azure - all stuff (SAS, services etc)](azure/main.md):
    - [AZ-104 preps](azure/az-104/main.md)
    - [AZ-204 preps](azure/az-204/main.md)
    - [AZ-305 various notes](azure/az-305/main.md)
