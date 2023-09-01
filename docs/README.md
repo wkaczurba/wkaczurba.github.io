@@ -16,6 +16,9 @@ AWS:
  - [some handy scripts](aws/main.md)
  - [courses TBD](aws/courses.md)
 
+Bash:
+ - [bash notes](bash/notes.md)
+
 Chat-GPT:
  - [ai-chatgpt](ai-chatgpt/chat-gpt.md)
 
@@ -40,18 +43,25 @@ Docker:
  - [docker various issues](docker-snippets/various.md)
  - [docker mongo + ROBO3T](docker-snippets/mongo.md)
 
+Java:
+ - Interviews:
+   - [**private repo, sorry!**](https://github.com/wkaczurba/j11-recert)
+   - [java interview questions](java/interviews/java_interview_questions.md)
+
+Spring+Spring-Boot-etc.:
+ - Spring/+boot:
+   - [Flyway](flyway/flyway-spring.md)
+   - [Boot-docs](boot docs)
+
 Mongo:
  - [mongo - various](mongo/mongo.md)
 
-Mavaen:
+Maven:
  - [java17-archetype](maven/archetype/archetype.md)
 
 365: (setup for small-business, free static webpage, etc):
  - [365 random notes](365_and_website/365.md)
 
-Java/Spring-Boot-etc.:
- - [Interviews, etc - **private repo, sorry!**] https://github.com/wkaczurba/j11-recert
- - [Flyway](flyway/flyway-spring.md)
  
 Kubernetes (K8S):
  - [Kubernetes - WIP notes and old ones](kubernetes/kubernetes.md)
