@@ -53,3 +53,8 @@ Java/Spring-Boot-etc.:
  - [Interviews, etc - **private repo, sorry!**] https://github.com/wkaczurba/j11-recert
  - [Flyway](flyway/flyway-spring.md)
  
+Kubernetes (K8S):
+ - [Kubernetes - WIP notes and old ones](kubernetes/kubernetes.md)
+
+Scala:
+ - [Scala - WIP notes](scala/scala.md)
