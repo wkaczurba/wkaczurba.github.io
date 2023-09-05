@@ -46,7 +46,7 @@ Docker:
 Java:
  - Interviews:
    - [**private repo, sorry!**](https://github.com/wkaczurba/j11-recert)
-   - [java interview questions](java/interviews/java_interview_questions.md)
+   <!-- - [java interview questions](java/interviews/java_interview_questions.md) -->
 
 Spring+Spring-Boot-etc.:
  - Spring/+boot:

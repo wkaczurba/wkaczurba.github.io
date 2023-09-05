@@ -14,6 +14,9 @@
  - [Java SDK links](java-sdk.md)
 
 
+### AZD
+ - [AZD](azd/azd.md)
+
 ### SAS token generation
 
 [My answer  - SO](https://stackoverflow.com/questions/54541238/azure-service-bus-get-messages-from-queue-using-cli#76983598)
