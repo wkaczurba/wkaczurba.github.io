@@ -68,3 +68,7 @@ Kubernetes (K8S):
 
 Scala:
  - [Scala - WIP notes](scala/scala.md)
+
+System design:
+ - [System design WIP](system_design/system_design.md)
+

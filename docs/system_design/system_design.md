@@ -1,0 +1,5 @@
+# System design - WIP
+
+Some useful resources:
+ - https://github.com/donnemartin/system-design-primer
+
