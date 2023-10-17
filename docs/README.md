@@ -48,6 +48,12 @@ Java:
    - [**private repo, sorry!**](https://github.com/wkaczurba/j11-recert)
    <!-- - [java interview questions](java/interviews/java_interview_questions.md) -->
 
+MacOS:
+ - [**Shortcuts and OS-use basics**]()
+
+Python:
+ - [Scripting - renaming files, OS etc.](python/scripting.md)
+
 Spring+Spring-Boot-etc.:
  - Spring/+boot:
    - [Flyway](flyway/flyway-spring.md)
