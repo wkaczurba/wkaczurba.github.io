@@ -16,8 +16,9 @@ AWS:
  - [some handy scripts](aws/main.md)
  - [courses TBD](aws/courses.md)
 
-Bash:
- - [bash notes](bash/notes.md)
+Bash + Shell utils:
+ - [bash notes](sh/notes.md)
+ - [curl](sh/curl.md)
 
 Chat-GPT:
  - [ai-chatgpt](ai-chatgpt/chat-gpt.md)
@@ -48,6 +49,15 @@ Java:
    - [**private repo, sorry!**](https://github.com/wkaczurba/j11-recert)
    <!-- - [java interview questions](java/interviews/java_interview_questions.md) -->
 
+Mac:
+ - [mac shortcuts](mac/mac.md)
+
+Mongo:
+ - [mongo - various](mongo/mongo.md)
+
+Maven:
+ - [java17-archetype](maven/archetype/archetype.md)
+
 Python:
  - [Scripting - renaming files, OS etc.](python/scripting.md)
 
@@ -56,12 +66,6 @@ Spring+Spring-Boot-etc.:
    - [Flyway](flyway/flyway-spring.md)
    - [Boot-docs](boot docs)
 
-Mongo:
- - [mongo - various](mongo/mongo.md)
-
-Maven:
- - [java17-archetype](maven/archetype/archetype.md)
-
 365: (setup for small-business, free static webpage, etc):
  - [365 random notes](365_and_website/365.md)
 
@@ -69,9 +73,15 @@ Maven:
 Kubernetes (K8S):
  - [Kubernetes - WIP notes and old ones](kubernetes/kubernetes.md)
 
+Regex:
+ - [Regex](regex/regex.md)
+
 Scala:
  - [Scala - WIP notes](scala/scala.md)
 
 System design:
  - [System design WIP](system_design/system_design.md)
+
+zsh:
+ - [zsh](zsh/zsh.md)
 
