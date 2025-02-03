@@ -44,6 +44,9 @@ Docker:
  - [docker various issues](docker-snippets/various.md)
  - [docker mongo + ROBO3T](docker-snippets/mongo.md)
 
+Helm:
+ - [helm](helm/helm.md)
+
 Java:
  - Interviews:
    - [**private repo, sorry!**](https://github.com/wkaczurba/j11-recert)
