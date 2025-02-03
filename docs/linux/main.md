@@ -15,3 +15,12 @@ sudo apt install mainline
 mainline --install-latest
 ```
 
+## Ubuntu:
+
+turning off screen after 30 seconds.
+
+```bash
+xset -dpms
+```
+
+

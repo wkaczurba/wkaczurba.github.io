@@ -25,4 +25,11 @@
 [SAS token generation - python (problems)](sas/generate.py)
 [SAS token generation - java working ok](sas/SasGeneration/src/Main.java)
 
+### Service prinical
+
+[creating_service_principal](service_principal/creating_service_princiapl.md)
+
+### Service bus
+
+[reading_from_service_bus (not ready)](servicebus_queue/reading_from_service_bus.sh)
 
