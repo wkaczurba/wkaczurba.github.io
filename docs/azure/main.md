@@ -27,7 +27,7 @@
 
 ### Service prinical
 
-[creating_service_principal](service_principal/creating_service_princiapl.md)
+[creating_service_principal](service_principal/creating_service_principal.md)
 
 ### Service bus
 

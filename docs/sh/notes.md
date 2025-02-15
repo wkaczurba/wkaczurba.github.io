@@ -74,3 +74,16 @@ cat << EOF > output.file2
 > EOF
 ```
 
+# find
+
+
+```sh
+#Basics:
+find -name '*.*'
+
+# Find one name or the other: -o is for "or"
+find -name '*.java' -o -name '*.properties'
+
+```
+
+

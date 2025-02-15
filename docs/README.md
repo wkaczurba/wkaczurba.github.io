@@ -67,7 +67,8 @@ Python:
 Spring+Spring-Boot-etc.:
  - Spring/+boot:
    - [Flyway](flyway/flyway-spring.md)
-   - [Boot-docs](boot docs)
+   - [Boot-docs](spring/springboot.md)
+   - [Feign - header propagation](spring/feign_and_header_propagation.md)
 
 365: (setup for small-business, free static webpage, etc):
  - [365 random notes](365_and_website/365.md)
