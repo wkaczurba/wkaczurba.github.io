@@ -23,4 +23,9 @@ turning off screen after 30 seconds.
 xset -dpms
 ```
 
+# Midi over bluetooth installation
 
+As based on:
+ - https://linuxmusicians.com/viewtopic.php?t=23610
+ - https://tttapa.github.io/Pages/Ubuntu/Software-Installation/BlueZ.html
+ - 

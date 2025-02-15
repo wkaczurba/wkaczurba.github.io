@@ -6,6 +6,7 @@
   - [Installation (MacOS):](#installation-macos)
   - [Other - old own notes](#other---old-own-notes)
   - [Installation (old-Linux), for controlling remote k8s-only:](#installation-old-linux-for-controlling-remote-k8s-only)
+  - [Kind, minikube and kubectl - old](kind_minikube_and_kubectl.md)
 
 ## Aliases
 
