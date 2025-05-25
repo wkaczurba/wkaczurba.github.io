@@ -24,7 +24,7 @@ Chat-GPT:
  - [ai-chatgpt](ai-chatgpt/chat-gpt.md)
 
 Linux:
- - [some handy scripts](linux/main.md)
+ - [some handy scripts, MIDI, etc](linux/main.md)
 
 Chrome-dev, javascripts etc.
  - [chrome-dev easy link extraction](chrome-dev/chromedev-links.md)
@@ -49,7 +49,7 @@ Helm:
 
 Java:
  - Interviews:
-   - [**private repo, sorry!**](https://github.com/wkaczurba/j11-recert)
+   - [**private repo, sorry!**](https://github.com/wkaczurba/java-interviews)
    <!-- - [java interview questions](java/interviews/java_interview_questions.md) -->
 
 Mac:
