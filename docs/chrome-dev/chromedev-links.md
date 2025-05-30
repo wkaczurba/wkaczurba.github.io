@@ -1,4 +1,27 @@
+- [Chrome-dev Handy scripts for extraction of text:](#chrome-dev-handy-scripts-for-extraction-of-text)
+  - [Extracts links from Microsoft-Learn pages](#extracts-links-from-microsoft-learn-pages)
+  - [Prints all items from Udemy:](#prints-all-items-from-udemy)
+
+
 ## Chrome-dev Handy scripts for extraction of text:
+
+Extracts all GITHUB + other links along with title.
+
+```javascript
+const titles = document.querySelectorAll('.curriculum-item-link--curriculum-item-title-content--S-urg span[data-purpose="item-title"]');
+const resources = document.querySelectorAll('.dropdown-module--menu---dCM1');
+
+titles.forEach((title, index) => {
+  const titleText = title.textContent.trim();
+  const links = resources[index].querySelectorAll('a');
+  
+  console.log(titleText); // Print the title
+
+  links.forEach(link => {
+    console.log(`${titleText} - ${link.href}`); // Print title and each associated link
+  });
+});
+```
 
 ### Extracts links from Microsoft-Learn pages
 
