@@ -6,6 +6,8 @@
 ## Chrome-dev Handy scripts for extraction of text:
 
 Extracts all GITHUB + other links along with title.
+NOTE: you need to hover first over all links :O...
+(Or write script that does that for you).
 
 ```javascript
 const titles = document.querySelectorAll('.curriculum-item-link--curriculum-item-title-content--S-urg span[data-purpose="item-title"]');

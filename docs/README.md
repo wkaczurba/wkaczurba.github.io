@@ -44,6 +44,9 @@ Docker:
  - [docker various issues](docker-snippets/various.md)
  - [docker mongo + ROBO3T](docker-snippets/mongo.md)
 
+Gmail:
+ - [gmail](google/gmail.md)
+
 Helm:
  - [helm](helm/helm.md)
 
