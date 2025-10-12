@@ -15,6 +15,7 @@ Architecture / Cloud
 AWS:
  - [some handy scripts](aws/main.md)
  - [courses TBD](aws/courses.md)
+ - [localstakc](aws/localstack.md)
 
 Bash + Shell utils:
  - [bash notes](sh/notes.md)
@@ -65,6 +66,7 @@ Maven:
  - [java17-archetype](maven/archetype/archetype.md)
 
 Python:
+ - [Python, pycharm etc.](python/python-tips-n-tricks.md)
  - [Scripting - renaming files, OS etc.](python/scripting.md)
 
 Spring+Spring-Boot-etc.:
@@ -88,6 +90,9 @@ Scala:
 
 System design:
  - [System design WIP](system_design/system_design.md)
+
+Windows:
+ - [Windows](windows/windows.md)
 
 zsh:
  - [zsh](zsh/zsh.md)
