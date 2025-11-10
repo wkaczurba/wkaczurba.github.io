@@ -52,6 +52,8 @@ Helm:
  - [helm](helm/helm.md)
 
 Java:
+ - General (basic certs-related):
+   - [java](java/java.md)
  - Interviews:
    - [**private repo, sorry!**](https://github.com/wkaczurba/java-interviews)
    <!-- - [java interview questions](java/interviews/java_interview_questions.md) -->
