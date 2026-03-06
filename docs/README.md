@@ -20,6 +20,7 @@ AWS:
 Bash + Shell utils:
  - [bash notes](sh/notes.md)
  - [curl](sh/curl.md)
+ - [git](sh/git.md)
 
 Chat-GPT:
  - [ai-chatgpt](ai-chatgpt/chat-gpt.md)
