@@ -13,7 +13,8 @@ Architecture / Cloud
 ## Electronics
 
 Arduino + ESP32 notes:
-
+ - [Arduino + ESP32 setup](arduino_and_esp32/arduino_esp32_setup.md)
+ - [ESPHome](arduino_and_esp32/esphome.md)
 
 ## Partial notes, scripts, handy code encounters.
 
