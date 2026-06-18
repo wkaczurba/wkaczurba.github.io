@@ -10,6 +10,11 @@ Architecture / Cloud
    - [AZ-305 various notes](azure/az-305/main.md)
    - [SpringApps - TBD](azure/springapps/springapps.md)
 
+## Electronics
+
+Arduino + ESP32 notes:
+
+
 ## Partial notes, scripts, handy code encounters.
 
 AWS:
